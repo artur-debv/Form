@@ -18,9 +18,9 @@ const LoginForm = () => {
                     </div>
                     <div className="flex items-center justify-between">
                         <div className="text-sm">
-                            <a href="#" className="font-medium text-green-600 hover:text-green-500">
-                                Esqueceu sua senha?
-                            </a>
+                            {/* <a href="#" className="font-medium text-green-600 hover:text-green-500">
+                            Esqueceu sua senha?
+                            </a> */}
                         </div>
                     </div>
                     <div className="space-y-4">
