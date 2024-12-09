@@ -38,11 +38,11 @@ const LoginForm = () => {
                         </div>
                     </div>
                     <div className="mt-6 grid grid-cols-1 justify-items-center items-center ">
-                        <SocialButton href="#">
+                       { /*<SocialButton href="#">
                             <span className="sr-only">Continue with Google</span>
                             <FaGoogle />
                             Google
-                        </SocialButton>
+                        </SocialButton>*/}
                     </div>
                 </div>
             </div>
