@@ -1,7 +1,7 @@
 import InputField from './InputField';
 import Button from './Button';
-import SocialButton from './SocialButton';
-import { FaGoogle } from "react-icons/fa";
+//import SocialButton from './SocialButton';
+//import { FaGoogle } from "react-icons/fa";
 
 const LoginForm = () => {
     return (
